@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/anomalies/
+*.db
+yolov8n.pt
